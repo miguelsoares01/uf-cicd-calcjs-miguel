@@ -1,0 +1,11 @@
+{
+  "name": "uf-cicd-calcjs-miguel",
+  "version": "1.0.0",
+  "description": "meu trabalho",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Miguel Soares",
+  "license": "ISC"
+}
