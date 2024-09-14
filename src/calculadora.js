@@ -6,5 +6,6 @@ return a + b;
 }
 // Exportar as funções
 module.exports = {
-add
+add,
+subtract
 };
